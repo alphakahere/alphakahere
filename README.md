@@ -3,7 +3,7 @@ Hi 👋 My name is Alpha Amadou Diallo
 
 web developer(React JS && Laravel)
 ----------------------------------
-I am a fullstack web developer (ReactJs && Laravel). I spend almost every day experimenting on technologies related to HTML, CSS, ReactJs or Laravel. Currently I am working on symfony to complete the PHP stack.
+I am a fullstack web developer (ReactJs && Laravel). I spend almost every day experimenting on technologies related to HTML, CSS, ReactJs or Laravel.
 
 * 🌍  I'm based in Dakar
 * ✉️  You can contact me at [alphakahere@gmail.com](mailto:alphakahere@gmail.com)
