@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Alpha Amadou Diallo
 ============================================================================================================================================
 
-Fullstack JavaScript | TypeScrit Developer
-------------------------------------------
-
 Fullstack JavaScript Developer with 4 years of experience, specialized in React/Node.js ecosystem.
 
 Passionate about building modern, performant, and user-centered web applications.
