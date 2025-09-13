@@ -1,9 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Alpha Amadou Diallo
 ============================================================================================================================================
 
-Fullstack JavaScript Developer with 4 years of experience, specialized in React/Node.js ecosystem.
-
-Passionate about building modern, performant, and user-centered web applications.
+Fullstack JavaScript Developer with 4+ years of experience building scalable web applications across fintech, healthcare, and e-commerce industries. Currently serving as Lead Developer, I specialize in the modern JavaScript ecosystem with expertise in React, Next.js, TypeScript, and Node.js.
+My technical journey spans from frontend architecture to backend development, enabling me to deliver complete solutions and collaborate effectively across development teams. I have successfully contributed to 10+ projects, including AI-powered platforms, SaaS solutions, and payment integration systems.
 
 * 🌍  I'm based in Dakar
 * ✉️  You can contact me at [hello@alphakahere.dev](mailto:hello@alphakahere.dev)
